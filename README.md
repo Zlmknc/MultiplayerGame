@@ -1,5 +1,5 @@
 # MultiplayerGame
-# 🚀 Minik Kaşifler: Renk Maceraları
+🚀 Minik Kaşifler: Renk Maceraları
 
 2-4 yaş arası çocuklar için geliştirilmiş, renkler üzerine kurulu bir Unity oyunu.
 Oyunculardan görseller aracılığıyla sorulan karttaki varlığın renginin bilinmesi istenmektedir. Asıl amaç belirlenmiş süre zarfında oyuncuların en doğru cevabı bulmasıdır. Farklı puan değerlerine sahip seçenekler arasından seçim yapmalarını sağlayan basit bir tasarıma sahip ve eğitici bir oyundur. Oyun, tek bir "doğru" cevaptan ziyade, oyuncuların seçenekler arasından en uygun olanı bulmaya çalıştığı bir yapıya sahiptir.
