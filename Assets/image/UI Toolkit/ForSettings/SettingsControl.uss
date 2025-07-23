@@ -1,0 +1,28 @@
+#MySlider Label {
+    display: none;
+    width: 10px;
+}
+
+#MySlider #unity-drag-container {
+    -unity-background-image-tint-color: rgb(93, 8, 8);
+}
+
+#MySlider #unity-tracker {
+    -unity-background-image-tint-color: rgb(15, 37, 13);
+    flex-grow: 1;
+}
+
+#MySlider #unity-dragger {
+    -unity-background-image-tint-color: rgba(1, 1, 1, 0.85);
+    -unity-background-scale-mode: stretch-to-fill;
+}
+
+.settingsButton {
+    transition-duration: 0.35s;
+}
+
+.settingsButton:hover {
+    scale: 1.1 1.1;
+    transition-duration: 0.35s;
+    -unity-background-image-tint-color: rgb(32, 117, 84);
+}
